@@ -1,4 +1,5 @@
 import java.util.concurrent.Semaphore;
+
 /**
  * 
  * @author parirajaram
@@ -7,6 +8,7 @@ import java.util.concurrent.Semaphore;
  * schedule one thread to go after another one finishes. We loop three threads to 
  * go one after another for few times.
  */
+
 public class GoOneAfterAnother {
 	
 	public static class Foo  {
