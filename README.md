@@ -1,2 +1,2 @@
 # javastuff
-java code samples 
+java code samples  :)
